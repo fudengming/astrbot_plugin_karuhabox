@@ -7,7 +7,7 @@ from io import BytesIO
 import emoji
 
 RESOURCE_DIR: Path = Path(__file__).resolve().parent / "resource"
-FONT_PATH: Path = RESOURCE_DIR / "jyhphy-2.ttf"
+FONT_PATH: Path = RESOURCE_DIR / "OpenSans+HarmonyOSSans.ttf"
 EMOJI_FONT_PATH: Path = RESOURCE_DIR / "EmojiOneColor.otf"
 
 FONT_SIZE = 32  # 字体大小
