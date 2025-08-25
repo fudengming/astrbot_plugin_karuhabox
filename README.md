@@ -5,10 +5,10 @@
 
 _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 开盒插件 ✨_  
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![AstrBot](https://img.shields.io/badge/AstrBot-3.4%2B-orange.svg)](https://github.com/Soulter/AstrBot)
-[![GitHub](https://img.shields.io/badge/原作者-Zhalslar-blue)](https://github.com/Zhalslar)
+[![AstrBot](https://img.shields.io/badge/AstrBot-3.4%2B-yellow.svg)](https://github.com/Soulter/AstrBot)
+[![GitHub](https://img.shields.io/badge/原作者-Zhalslar-purple.svg)](https://github.com/Zhalslar)
 
 </div>
 
