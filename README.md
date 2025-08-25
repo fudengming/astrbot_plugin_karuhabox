@@ -20,13 +20,13 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 开盒插件 ✨_
 
 - 从链接安装 - 输入以下链接
 ``` text
-https://github.com/fudengming/astrbot_plugin_karuhabox
+https://github.com/NekoiMeiov/astrbot_plugin_karuhabox
 ```
 - 若是安装失败，可以尝试直接克隆源码：
 ```bash
 # 克隆仓库到插件目录
 cd /AstrBot/data/plugins
-git clone https://github.com/fudengming/astrbot_plugin_karuhabox
+git clone https://github.com/NekoiMeiov/astrbot_plugin_karuhabox
 
 # 控制台重启AstrBot
 ```
@@ -71,7 +71,7 @@ git clone https://github.com/fudengming/astrbot_plugin_karuhabox
 ## 📌 注意事项
 
 - 本仓库为[astrbot_plugin_box](https://github.com/Zhalslar/astrbot_plugin_box)分支，且使用了AI修改代码
-- 本仓库所有素材如有侵权，请原作者[联系](mailto:bilibili_fdm@yeah.net)删除
+- 本仓库所有素材如有侵权，请素材原作者[联系NekoiMeiov_Team](mailto:team@fdmnya.top)删除
 
 ## 🚫 免责声明
 
