@@ -46,9 +46,6 @@ git clone https://github.com/NekoiMeiov/astrbot_plugin_karuhabox
 "盒"也可以替换为"开盒", "box"
 ```
 
-### 示例图
-
-![33cd17b7bd27520aee2f463ff8a9d12](https://github.com/user-attachments/assets/97ffe26f-bf18-4cbe-93f4-1eb82e08edeb)
 
 ## 🤝 TODO
 
